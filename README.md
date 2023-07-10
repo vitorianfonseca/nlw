@@ -1,7 +1,8 @@
 # NLW eSports
 
-![preview](./.github/preview.png)
-> Trilha Explorer
+![image](https://github.com/vitorianfonseca/nlw/assets/113269524/6955c1ec-2504-4ad1-abc5-5db0729978cf)
+
+> Iniciante
 
 Projeto contruído do evento Next Level Week 
 da Rocketseat.
